@@ -14,7 +14,8 @@ Here's an overview of the completeness as well as the existing solutions and lan
 |------------------------| ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------  | ------ |
 | 01 - Sonar Sweep       | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ❌     |
 | 02 - Dive!             | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | ✅      | (✅)   |
-| 03 - Binary Diagnostic | ✅      | ✅      | ✅      | ✅      | (✅)    | ❌      | ❌      | ❌      | ✅      | ✅      | ❌     |
+| 03 - Binary Diagnostic | ✅      | ✅      | ✅      | ✅      | (✅)    | (✅)    | ❌      | ✅      | ✅      | ✅      | ❌     |
+| 04 - Giant Squid       | ❌      | ❌      | ✅      | ✅      | ❌      | ❌      | ❌      | ❌      | ✅      | ✅      | ❌     |
 
 ❌   = Keine Lösung/No solution,
 ✅   = Voll gelöst/Fully solved,
